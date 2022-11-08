@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Assets
+Content/BlockGame/*
+Content/Hour_of_Code/*
+Content/LearningKit_Games/*
+Content/LearningKit_Robots/*
+Content/SCK_Casual01/*
